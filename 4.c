@@ -11,7 +11,7 @@ struct vector
     int x, y;
 };
 /*
- * you need to acess struct type always with the struct keyword, so for
+ * you need to access struct type always with the struct keyword, so for
  * convenience you can create typedef (note that definition is on the left)
  */
 typedef struct vector vector;
